@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTesting", "WpfTesting\WpfTesting.csproj", "{C869B349-4C00-49E6-836E-470FF2CEBCBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RgbCube", "RgbCube\RgbCube.csproj", "{3710AE1E-8964-4403-986F-A8F98F51BFA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C869B349-4C00-49E6-836E-470FF2CEBCBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C869B349-4C00-49E6-836E-470FF2CEBCBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C869B349-4C00-49E6-836E-470FF2CEBCBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C869B349-4C00-49E6-836E-470FF2CEBCBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3710AE1E-8964-4403-986F-A8F98F51BFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3710AE1E-8964-4403-986F-A8F98F51BFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3710AE1E-8964-4403-986F-A8F98F51BFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3710AE1E-8964-4403-986F-A8F98F51BFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DD3E0CC-E001-4575-AFDB-2590C300BF44}
+	EndGlobalSection
+EndGlobal
